@@ -1,4 +1,4 @@
-# fingerprint_animation
+# trash_animation
 
 A new Flutter project.
 
